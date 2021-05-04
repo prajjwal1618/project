@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-apple 33
-=======
-apple 333
->>>>>>> universe
+aaj chai pi ki nhi

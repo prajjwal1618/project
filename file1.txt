@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-apple 00
-=======
-apple 111
->>>>>>> universe
+mai hu superman

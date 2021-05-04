@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-apple 0001
-=======
-apple 222
->>>>>>> universe
+jago grahak jago
